@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LastLog/LastLog.iml" filepath="$PROJECT_DIR$/../LastLog/LastLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring_Security_Test/Spring_Security_Test.iml" filepath="$PROJECT_DIR$/../Spring_Security_Test/Spring_Security_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../duoduiduo/duoduiduo.iml" filepath="$PROJECT_DIR$/../duoduiduo/duoduiduo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jsonTest/jsonTest.iml" filepath="$PROJECT_DIR$/../jsonTest/jsonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../security_jwt/security_jwt.iml" filepath="$PROJECT_DIR$/../security_jwt/security_jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_springsecurity_jwt/springboot_springsecurity_jwt.iml" filepath="$PROJECT_DIR$/../springboot_springsecurity_jwt/springboot_springsecurity_jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../swaggerTest/swaggerTest.iml" filepath="$PROJECT_DIR$/../swaggerTest/swaggerTest.iml" />
+    </modules>
+  </component>
+</project>
